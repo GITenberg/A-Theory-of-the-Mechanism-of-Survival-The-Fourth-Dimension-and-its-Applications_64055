@@ -1,5 +1,8 @@
 _repo: A-Theory-of-the-Mechanism-of-Survival-The-Fourth-Dimension-and-its-Applications_64055
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64055-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, W. Whately (Walter Whately)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51376
     wikipedia: https://en.wikipedia.org/wiki/Whately_Carington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64055#A-Theory-of-the-Mechanism-of-Survival-The-Fourth-Dimension-and-its-Applications
 gutenberg_issued: '2020-12-15'
 gutenberg_type: Text
 identifiers:
